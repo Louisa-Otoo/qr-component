@@ -1,0 +1,60 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /*Use min-height for responsiveness */
+}
+
+.container {  
+    background-color:hsl(0, 0%, 100%);
+    /* max-width: 100%; Make the container responsive */
+    min-height: 65vh;
+    width: 20%;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.qr-image img{
+    max-width: 100%; /* Make the image responsive */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any extra spacing */
+    margin: 0 auto; /* Center the image horizontally */
+    border-radius: 15px;
+}
+
+.text {
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    line-height: 1.4;
+}
+
+.text h3 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text p {
+    margin-top: 10px;
+    /* opacity: 70%; */
+    opacity: 0.6; /* Use decimals for opacity */
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+}
+
+
+
+ @media (max-width: 768px) {
+    .container {
+        width: 80%; /* Adjust the container width for smaller screens */
+    } 
+} 
