@@ -1,6 +1,6 @@
 # QR Code Component
 
-This is a solution to the **QR code component challenge** on [Frontend Mentor](https://www.frontendmentor.io). It's a simple static site built to practice and demonstrate frontend development skills including layout, styling, and responsiveness.
+This is a solution to the **QR code component challenge** on [Frontend Mentor](https://www.frontendmentor.io). It's a simple static site built to practice and demonstrate frontend development skills including layout and styling.
 
 ---
 
@@ -31,9 +31,9 @@ This project helped reinforce:
 To run this project locally:
 
 - Clone the repository with this command:
-  - git clone https://github.com/yourusername/qr-code-component.git
+  - git clone https://github.com/Louisa-Otoo/qr-component.git
 - Navigate into the project folder:
-  - cd qr-code-component
+  - cd qr-component
 - Open index.html in your browser.
 
 ---
