@@ -2,11 +2,13 @@
 
 This is a solution to the **QR code component challenge** on [Frontend Mentor](https://www.frontendmentor.io). It's a simple static site built to practice and demonstrate frontend development skills including layout, styling, and responsiveness.
 
+---
 
 ## 🚀 Live Demo
 
 [View Live Site](https://louisa-otoo.github.io/qr-component/)
 
+---
 
 ## 🛠️ Built With
 
@@ -14,6 +16,7 @@ This is a solution to the **QR code component challenge** on [Frontend Mentor](h
 - CSS3
 - [Frontend Mentor](https://www.frontendmentor.io) starter template
 
+---
 
 ## 🎯 What I Learned
 
@@ -22,6 +25,7 @@ This project helped reinforce:
 - Structuring semantic HTML
 - Writing clean and maintainable CSS
 
+---
 
 ## 📌 How to Use
 To run this project locally:
@@ -32,12 +36,14 @@ To run this project locally:
   - cd qr-code-component
 - Open index.html in your browser.
 
-🧑‍🎓 Author
+---
+
+## 🧑‍🎓 Author
  - Frontend Mentor: @Louisa-Otoo
 
  - GitHub: @Louisa-Otoo
 
-📝 Acknowledgments
+## 📝 Acknowledgments
 Thanks to Frontend Mentor for the great challenges!
 
 ---
